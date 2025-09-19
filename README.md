@@ -2,6 +2,12 @@
 
 <h2 align="left">Hi 👋! My name is Enigma and I'm a backend dev, from Uzbekistan</h2>
 
+
+
+
+https://github.com/user-attachments/assets/1d194e83-42df-4da1-a066-bf3b8fcc6e64
+
+
 ###
 
 <div align="center">
